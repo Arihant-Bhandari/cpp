@@ -5,7 +5,7 @@ INTENT: Contains my programs made during my journey in learning C++.
 PROJECT TITLE: Experimental log
 
 ------------------------------------------------------------------------
-PURPOSE OF PROJECT: recording all programs made using C++
+PURPOSE OF PROJECT: recording all programs made using C++.
 
 VERSION or DATE: 07/2023(1.0.0)
 

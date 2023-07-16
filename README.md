@@ -15,9 +15,10 @@ AUTHORS:  Arihant Bhandari
 USER INSTRUCTIONS:
 
 Class naming system:
->major topics are dealt with arbitary names correspondingly.
->practise ques are named with the naming pattern : "pr[n]". n being an integer.
->specific programs dealing with both a major concept as well as a practise ques can be named with a unique class name.
+
+-->major topics are dealt with arbitary names correspondingly.
+-->practise ques are named with the naming pattern : "pr[n]". n being an integer.
+-->specific programs dealing with both a major concept as well as a practise ques can be named with a unique class name.
 
 Naming criteria for objects as well as variables: set arbitarily
 ------------------------------------------------------------------------

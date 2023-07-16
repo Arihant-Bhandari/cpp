@@ -17,6 +17,7 @@ It goes all the way to advanced topics, including but not limited to various alg
 
 ------------------------------------------------------------------------
 AUTHORS:  Arihant Bhandari
+
 ------------------------------------------------------------------------
 USER INSTRUCTIONS:
 

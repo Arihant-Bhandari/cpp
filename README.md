@@ -29,6 +29,4 @@ Class naming system:
 
 -->specific programs dealing with both a major concept as well as a practise questions can be named with a unique class name.
 
-Naming criteria for objects as well as variables: set arbitrarily
-
-------------------------------------------------------------------------
+Naming criteria for objects as well as variables: set arbitrarily.
